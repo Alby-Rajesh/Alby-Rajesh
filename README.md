@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alby-Rajesh
-- 👀 I’m interested in ...learning and improving my coding skills and capabilities 
-- 🌱 I’m currently learning ...in Rajagiri School of Engineering and Technology for Electronics and Communication Engineering
+- 👀 I specialize in AI MACHINE LEARNING AND DEEP LEARNING
+- 🌱 I’m currently working as an AI/ML INTERN AT DIFFERENT COMPANIES
 - 💞️ I’m looking to do internships on ...coding and do several projeccts.
 - 📫 How to reach me ...You can contact me through my mail albyrajeshwork@gmail.com
 
