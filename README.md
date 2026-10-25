@@ -66,6 +66,8 @@ PDF → ontology-linked **Neo4j knowledge graph**. Schema-constrained extraction
 
 An **agent for GitHub repositories**. Searches code, reads files and commit history, answers with `path:line` citations, and drafts issues for human approval.
 
+**[Live demo →](https://repo-copilot.vercel.app)**
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 ![Supabase](https://img.shields.io/badge/pgvector-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
