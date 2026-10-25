@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Alby%20Rajesh&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Knowledge%20Graphs%20%E2%80%A2%20Retrieval&descSize=17&descAlignY=58" width="100%" alt="Alby Rajesh"/>
+<h1>Alby Rajesh</h1>
+
+<h3>AI/ML Engineer &nbsp;·&nbsp; LLM Systems &nbsp;·&nbsp; Knowledge Graphs &nbsp;·&nbsp; Retrieval</h3>
 
 <p><b>Turning unstructured data into queryable knowledge</b><br/><sub>Agentic Text-to-SQL &nbsp;•&nbsp; Text-to-Cypher &nbsp;•&nbsp; Graph RAG &nbsp;•&nbsp; Schema-constrained LLM pipelines</sub></p>
 
@@ -120,6 +122,5 @@ An **agent for GitHub repositories**. Searches code, reads files and commit hist
 <br/>
 <a href="mailto:albyrajeshwork@gmail.com">albyrajeshwork@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/alby-rajesh-187721202">LinkedIn</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer" width="100%" alt=""/>
 
 </div>
