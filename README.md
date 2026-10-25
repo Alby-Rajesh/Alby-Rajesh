@@ -48,7 +48,19 @@ I'm an **AI/ML Engineer at Feathersoft Info Solutions**, building production Gen
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+### [text2cypher-agent](https://github.com/Alby-Rajesh/text2cypher-agent)
+
+**Agentic Text-to-Cypher** over Neo4j. A QLoRA fine-tuned Qwen2.5-Coder model writes Cypher; a LangGraph agent validates it with `EXPLAIN`, self-corrects on errors and answers from the results. Redis cache and memory, LangSmith tracing and execution-accuracy evals.
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![QLoRA](https://img.shields.io/badge/QLoRA-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 ### [unstructured-2-kg](https://github.com/Alby-Rajesh/unstructured-2-kg)
 
@@ -60,7 +72,9 @@ PDF → ontology-linked **Neo4j knowledge graph**. Schema-constrained extraction
 ![Docling](https://img.shields.io/badge/Docling-6E56CF?style=flat-square)
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [repo-copilot](https://github.com/Alby-Rajesh/repo-copilot)
 
@@ -73,7 +87,7 @@ An **agent for GitHub repositories**. Searches code, reads files and commit hist
 ![Supabase](https://img.shields.io/badge/pgvector-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### [hybrid-rag](https://github.com/Alby-Rajesh/hybrid-rag)
 
