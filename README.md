@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Alby%20Rajesh&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Knowledge%20Graphs%20%E2%80%A2%20Retrieval&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Alby Rajesh"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Alby%20Rajesh&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Knowledge%20Graphs%20%E2%80%A2%20Retrieval&descSize=17&descAlignY=58" width="100%" alt="Alby Rajesh"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Turning+unstructured+data+into+queryable+knowledge;Agentic+Text-to-SQL+%E2%80%A2+Text-to-Cypher+%E2%80%A2+Graph+RAG;Grounded%2C+schema-constrained+LLM+pipelines" alt="Typing intro"/>
+<p><b>Turning unstructured data into queryable knowledge</b><br/><sub>Agentic Text-to-SQL &nbsp;•&nbsp; Text-to-Cypher &nbsp;•&nbsp; Graph RAG &nbsp;•&nbsp; Schema-constrained LLM pipelines</sub></p>
 
 <br/>
 
