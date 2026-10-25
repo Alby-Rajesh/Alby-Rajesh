@@ -137,7 +137,7 @@ An **agent for GitHub repositories**. Searches code, reads files and commit hist
 ## Tech stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,ts,pytorch,sklearn,postgres,supabase,nextjs,docker,githubactions,linux,git&perline=11" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=py,ts,pytorch,sklearn,postgres,redis,supabase,fastapi,nextjs,docker,githubactions,linux,git&perline=13" alt="Tech stack"/>
 </p>
 
 <p align="center">
@@ -148,6 +148,12 @@ An **agent for GitHub repositories**. Searches code, reads files and commit hist
 <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector"/>
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/>
 <img src="https://img.shields.io/badge/Docling-6E56CF?style=flat-square" alt="Docling"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangSmith"/>
+<img src="https://img.shields.io/badge/DSPy-8A2BE2?style=flat-square" alt="DSPy"/>
+<img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square" alt="CrewAI"/>
+<img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=flat-square" alt="LlamaIndex"/>
+<img src="https://img.shields.io/badge/QLoRA_fine--tuning-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="QLoRA fine-tuning"/>
 </p>
 
 ## Credentials
