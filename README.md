@@ -62,6 +62,20 @@ I'm an **AI/ML Engineer at Feathersoft Info Solutions**, building production Gen
 </td>
 <td width="50%" valign="top">
 
+### [voice-text2sql](https://github.com/Alby-Rajesh/voice-text2sql)
+
+A **voice data analyst** for Postgres. Ask out loud, hear the answer, see the SQL, table and chart. LangGraph agent with DSPy SQL generation tuned by MIPROv2 on an execution-accuracy metric; sqlglot AST guard plus read-only transactions.
+
+![DSPy](https://img.shields.io/badge/DSPy-8A2BE2?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Voice](https://img.shields.io/badge/STT_%2F_TTS-FF6F61?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [unstructured-2-kg](https://github.com/Alby-Rajesh/unstructured-2-kg)
 
 PDF → ontology-linked **Neo4j knowledge graph**. Schema-constrained extraction on vLLM, grounded facts, tiered entity resolution and NCBI Taxonomy / ChEBI / LOINC linking. Dockerised, tested in CI.
@@ -72,8 +86,6 @@ PDF → ontology-linked **Neo4j knowledge graph**. Schema-constrained extraction
 ![Docling](https://img.shields.io/badge/Docling-6E56CF?style=flat-square)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [repo-copilot](https://github.com/Alby-Rajesh/repo-copilot)
@@ -87,7 +99,9 @@ An **agent for GitHub repositories**. Searches code, reads files and commit hist
 ![Supabase](https://img.shields.io/badge/pgvector-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### [hybrid-rag](https://github.com/Alby-Rajesh/hybrid-rag)
 
