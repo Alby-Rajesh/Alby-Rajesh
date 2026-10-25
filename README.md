@@ -101,7 +101,18 @@ An **agent for GitHub repositories**. Searches code, reads files and commit hist
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+
+### [multi-agent-research](https://github.com/Alby-Rajesh/multi-agent-research)
+
+**Cited research reports** from a document collection. LlamaIndex hybrid RAG on pgvector (vector + full-text, RRF) feeding CrewAI crews in three patterns: sequential, manager-led hierarchical, and a self-reviewing reflection Flow. Retrieval and LLM-judge evals.
+
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 ### [hybrid-rag](https://github.com/Alby-Rajesh/hybrid-rag)
 
